@@ -1,41 +1,30 @@
-# Power BI Проект: Анализ зарплат программистов
+# Power BI Project: Developer Salary Analysis
 
-## Описание проекта
+## Project Description
 
-Данный проект представляет собой визуальный анализ данных, собранных в результате опроса среди программистов. Основное внимание уделено вопросам, связанным с уровнем зарплаты, наиболее популярными языками программирования и некоторыми характеристиками респондентов.
+This project presents a visual analysis based on survey data collected from software developers. The main focus is on questions related to salary levels, the most commonly used programming languages, and a few additional characteristics of the respondents.
 
-Проект выполнен с использованием Power BI и Excel-файла `Data.xlsx` в качестве источника данных.
+The report was built using Power BI with an Excel file (`Data.xlsx`) as the data source.
 
-## Цель проекта
+## Project Goals
 
-- Изучить, какие языки программирования наиболее распространены среди разработчиков
-- Проанализировать зависимость между используемыми языками и уровнем зарплат
-- Представить результаты в удобном и интерактивном виде
+- Identify the most commonly used programming languages among developers
+- Analyze the relationship between programming languages and salary levels
+- Present the findings in a clear, interactive format
 
-## Источник данных
+## Data Source
 
-- **Data.xlsx** — содержит результаты опроса программистов, включая информацию об их зарплате, используемых технологиях и других характеристиках
+- **Data.xlsx** — contains survey responses from developers, including salary, technologies used, and general background
 
-## Основные визуализации
+## Key Visualizations
 
-- Распределение зарплат среди респондентов
-- Топ популярных языков программирования
-- Средняя зарплата по каждому языку программирования
-- Фильтры по странам, стажу и другим параметрам (если есть)
+- Salary distribution among respondents
+- Top programming languages
+- Average salary per programming language
+- Filters by country, experience level, and other optional parameters
 
-## Как использовать
+## How to Use
 
-1. Открой файл `Project.pbix` с помощью Power BI Desktop
-2. Убедись, что путь к Excel-файлу `Data.xlsx` указан корректно (при необходимости обнови его)
-3. Нажми кнопку **Обновить данные**, чтобы загрузить свежую информацию
-4. Взаимодействуй с визуализациями и применяй фильтры для получения нужной информации
-
-## Выводы
-
-- Некоторые языки программирования ассоциируются с более высокими зарплатами
-- Распространённость языков может варьироваться в зависимости от региона и стажа
-- Опрос позволяет получить общее представление о рынке труда для программистов
-
----
-
-Проект выполнен с использованием **Power BI** и **Excel**.
+1. Open the `Project.pbix` file in Power BI Desktop
+2. Ensure the data path to `Data.xlsx` is correctly set (you may need to update it)
+3. Click **Refresh**
